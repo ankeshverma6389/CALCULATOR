@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #ffff;
+    justify-content: center;
+}
+
+.calculator {
+    justify-content: center;
+    text-align: center;
+    margin-top: 10rem;
+}
+
+button {
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.fun {
+    border: none;
+    border-radius: 1rem;
+    border-radius: blur;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fun1 {
+    border: none;
+    border-radius: 1rem;
+    border-radius: blur;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fun2 {
+    border: none;
+    border-radius: 1rem;
+    border-radius: blur;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fun3 {
+    border: none;
+    border-radius: 1rem;
+    border-radius: blur;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+input {
+    width: 8rem;
+    height: 2rem;
+    background-image: url(IMG_20250726_033705.jpg);
+    background-size: cover;
+}
